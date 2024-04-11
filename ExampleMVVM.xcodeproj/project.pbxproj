@@ -307,8 +307,8 @@
 			isa = PBXGroup;
 			children = (
 				1FFFC830221B0041007D99D2 /* MoviesRepository.swift */,
-				1FFFC828221B0041007D99D2 /* MoviesQueriesRepository.swift */,
 				1FFFC82C221B0041007D99D2 /* PosterImagesRepository.swift */,
+				1FFFC828221B0041007D99D2 /* MoviesQueriesRepository.swift */,
 			);
 			path = Repositories;
 			sourceTree = "<group>";
@@ -1316,7 +1316,7 @@
 				INFOPLIST_FILE = "$(SRCROOT)/ExampleMVVM/Resources/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Oleh-Kudinov.ExampleMVVM";
+				PRODUCT_BUNDLE_IDENTIFIER = com.soey.ExampleMVVM;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
